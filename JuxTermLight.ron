@@ -1,0 +1,26 @@
+(
+    name: "JuxTermLight",
+    foreground: "#c4cac9",
+    cursor: "#c4cac9",
+    bright_foreground: "#c4cac9",
+    normal: (
+        black: "#132c29",
+        red: "#0272D7",
+        green: "#33ABAC",
+        yellow: "#1A98F8",
+        blue: "#60DFEA",
+        magenta: "#94D2B9",
+        cyan: "#A4F3E8",
+        white: "#c4cac9",
+    ),
+    bright: (
+        black: "#627775",
+        red: "#0272D7",
+        green: "#33ABAC",
+        yellow: "#1A98F8",
+        blue: "#60DFEA",
+        magenta: "#94D2B9",
+        cyan: "#A4F3E8",
+        white: "#c4cac9",
+    ),
+)
