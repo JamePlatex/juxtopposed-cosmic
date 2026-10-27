@@ -6,4 +6,4 @@ This is an icon set containing pixelated monochrome icons designed for the COSMI
 
 Place the icon pack folder in: `~/.local/share/icons`.
 
-COSMIC Settings > Desktop > Appearance > Icons and toolkit theming > and select YAMIS-Cosmic from the Icon Theme dropdown.
+COSMIC Settings > Desktop > Appearance > Icons and toolkit theming > and select JuxIcons from the Icon Theme dropdown.
